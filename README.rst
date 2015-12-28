@@ -61,3 +61,6 @@ That's your standard *hello world* example. Which can be used like this:
   template variable ``myvar``.
 * ``{% hello "my friend" as othervar %}``: Outputs nothing but stores 
   ``hello my friend`` into the template variable ``othervar``.
+
+Rajesh Tests
+
