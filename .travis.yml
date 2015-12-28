@@ -3,4 +3,4 @@ install:
   - pip install django
 script:
   - pip freeze
-  - python manage.py test customtags_test
+  - python setup.py test
