@@ -1,1 +1,0 @@
-# django-customtags-lib
